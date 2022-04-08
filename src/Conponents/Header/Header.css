@@ -1,0 +1,10 @@
+.header a{
+    text-decoration: none;
+    font-size: 25px;
+    margin-right: 15px;
+}
+.header a:hover{
+    color: orangered;
+    font-weight: bold;
+    
+}
